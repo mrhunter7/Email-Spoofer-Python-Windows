@@ -16,6 +16,10 @@ Email Spoofer is a tool for social engineering attacks.
 + Light.
 + Easy to use.
 
+## Demo video 🎬
+
+https://www.youtube.com/watch?v=ZsQUqLYeV78
+
 ## Demo application 📥
 
 + [Download](https://github.com/henszac/Email-Spoofer-Python-Windows/releases/download/v1.0/Email-Spoofer-Python-Windows.rar) for Windows (Lastest version v1.0).
